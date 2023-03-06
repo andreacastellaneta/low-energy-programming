@@ -36,7 +36,7 @@ Etapes de développement :
 
 - blue_mode : asservissement ("calibration") de l'oscillateur MSI sur l'oscillateur à quartz d'horlogerie LSE 32kHz pour évaluation de la dérive thermique sans et avec cet asservissement
 
-exploitation du module RTC :
+Exploitation du module RTC :
 
 - observer la persistance de l'heure et des backup registers en cas de reset
 
